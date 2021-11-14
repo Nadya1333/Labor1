@@ -16,7 +16,7 @@ public class Task4 {
                 } else if (a == 9 || a == 10 || a == 11) {
                         System.out.println("Данный месяц относится к осени");
                     } else if (a > 12) {
-                            System.out.println("Такого месяце не существует");
+                            System.out.println("Такого месяца не существует");
                         }
         }
     }
